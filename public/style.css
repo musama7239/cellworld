@@ -1,0 +1,40 @@
+
+.btn-danger {
+    color: rgb(255, 255, 255);
+    
+
+}
+
+.bg {
+
+    background-image: url(./images/banner1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.check {
+    border-radius: 20px;
+    background:rgb(255, 255, 255);
+
+    
+    
+  }
+
+
+
+.box-1{
+    color:black;
+
+}
+
+.box-2{
+    color: black;
+}
+
+.fa.fa-search{
+    color: white;
+    justify-content: left;
+    height: 50px;
+}
