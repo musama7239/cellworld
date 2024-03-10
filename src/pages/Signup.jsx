@@ -1,5 +1,5 @@
 import React from 'react'
-import './login.css'
+import './Login.css'
 import { useForm } from "react-hook-form"
 export default function Signup() {
 
